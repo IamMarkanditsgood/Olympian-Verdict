@@ -1,0 +1,41 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cca5f64d8e23f4a4fb542a3f3d71bef8, type: 3}
+  m_Name: Cerberus
+  m_EditorClassIdentifier: 
+  advice:
+  - _god: 0
+    _godAdvice: Strength is not always on the side of the wicked.
+  - _god: 2
+    _godAdvice: Find balance between justice and mercy.
+  - _god: 10
+    _godAdvice: Overcoming fear is the first step to redemption.
+  - _god: 3
+    _godAdvice: Wisdom is necessary even in the darkest places.
+  characterStories:
+  - _storyName: Guardian of the Underworld
+    _story: Cerberus, the three-headed dog, became the guardian of Hades' realm,
+      guarding the gates from the souls of the dead.
+  - _storyName: Defeated Heroes
+    _story: His terrifying appearance caused many heroes to retreat, but this only
+      inflated his pride.
+  - _storyName: Long Isolation
+    _story: Cerberus was isolated from the world, knowing no love or care, and lived
+      alone in darkness.
+  - _storyName: Loss of Souls
+    _story: Over the years, he became cruel and fierce, devouring the souls that
+      tried to escape the underworld.
+  - _storyName: Humility
+    _story: Ultimately, one of the heroes managed to take control of Cerberus, and
+      he realized his sad fate.
+  _characterName: Cerberus
+  _characterSprite: {fileID: 21300000, guid: 8b381cbd03bb9f5499320494e766a791, type: 3}

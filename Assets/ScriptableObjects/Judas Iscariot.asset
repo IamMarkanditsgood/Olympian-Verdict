@@ -1,0 +1,41 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cca5f64d8e23f4a4fb542a3f3d71bef8, type: 3}
+  m_Name: Judas Iscariot
+  m_EditorClassIdentifier: 
+  advice:
+  - _god: 0
+    _godAdvice: Do not let greed govern your actions.
+  - _god: 4
+    _godAdvice: Seek the truth, even if it is bitter.
+  - _god: 10
+    _godAdvice: Courage in deeds is more important than quick profit.
+  - _god: 9
+    _godAdvice: Family and friends are your true worth.
+  characterStories:
+  - _storyName: Chosen Disciple
+    _story: 'Judas was one of the twelve disciples of Jesus, selected for his financial
+      skills and administrative abilities. '
+  - _storyName: Betrayal
+    _story: 'For thirty pieces of silver, he betrayed Jesus, handing him over to
+      the Roman authorities, becoming one of the most famous betrayals in history. '
+  - _storyName: Burning Conscience
+    _story: 'After the betrayal, Judas experienced immense guilt and realized that
+      his actions led to the execution of an innocent man. '
+  - _storyName: End in Despair
+    _story: He tried to return the money, but when rejected, he took his own life
+      by hanging from a tree.
+  - _storyName: Legend of Betrayal
+    _story: Judas remained in history as a symbol of betrayal, and his name became
+      synonymous with treachery.
+  _characterName: Judas Iscariot
+  _characterSprite: {fileID: 21300000, guid: b7391d380a51eac4190eab53e7398deb, type: 3}

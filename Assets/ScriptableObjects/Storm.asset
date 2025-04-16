@@ -1,0 +1,40 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cca5f64d8e23f4a4fb542a3f3d71bef8, type: 3}
+  m_Name: Storm
+  m_EditorClassIdentifier: 
+  advice:
+  - _god: 1
+    _godAdvice: Try not to intervene unless it brings benefit.
+  - _god: 5
+    _godAdvice: Nature will signal when it needs help.
+  - _god: 3
+    _godAdvice: Listen carefully to nature; it has much to teach.
+  - _god: 7
+    _godAdvice: The balance of nature's forces is the foundation of life.
+  characterStories:
+  - _storyName: Son of the Elements
+    _story: Storm was the spirit of weather, governing wind and rain, but unwilling
+      to interfere in human fates.
+  - _storyName: Observing the Land
+    _story: He watched over people, understanding their joys and sorrows, but always
+      remained aloof.
+  - _storyName: Help When Needed
+    _story: Storm sometimes brought rain to dry lands, but only when it was truly
+      necessary.
+  - _storyName: Balance of the Elements
+    _story: He understood that each element of nature plays an important role in
+      life.
+  - _storyName: Eternal Motion
+    _story: His presence was always felt in the air, but no one knew his true essence.
+  _characterName: Storm
+  _characterSprite: {fileID: 21300000, guid: ac78994348f057d4a8de3fa49430e9cf, type: 3}

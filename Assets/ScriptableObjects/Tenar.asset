@@ -1,0 +1,49 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cca5f64d8e23f4a4fb542a3f3d71bef8, type: 3}
+  m_Name: Tenar
+  m_EditorClassIdentifier: 
+  advice:
+  - _god: 3
+    _godAdvice: Sometimes silence speaks louder than words.
+  - _god: 6
+    _godAdvice: Secrets can be protection but also a burden.
+  - _god: 4
+    _godAdvice: Creativity is a reflection of the soul. Use it to convey knowledge.
+  - _god: 7
+    _godAdvice: Everyone has their shadow; what matters is how we perceive it.
+  characterStories:
+  - _storyName: Master of Shadows
+    _story: 'Tenar, a painter by profession, uses shadows in his artwork. His paintings
+      are full of mystery and depth, reflecting the emotional experiences and fears
+      of people. He creates an atmosphere of intrigue, drawing in viewers. '
+  - _storyName: Observer
+    _story: enar prefers to stay in the background and observe what is happening
+      around him. He studies human relationships, the understanding of which helps
+      him create his paintings better. This observant nature makes him wise.
+  - _storyName: Wise Advisor
+    _story: Locals often come to him for advice. He helps them make difficult decisions
+      based on his observations. His advice, rooted in an understanding of human
+      nature, is valued by all.
+  - _storyName: Keeper of Secrets
+    _story: ' Tenar knows many secrets about his neighbors and their lives. He respects
+      their secrets and never reveals them, understanding the importance of trust
+      and friendship. This quality makes him a trusted friend and advisor.'
+  - _storyName: The Shadow Sculptor
+    _story: One day, Tenar discovered that he could use his artistic skills to shape
+      shadows into fleeting sculptures that conveyed emotions too complex for words.
+      As he continued to refine this art, he began hosting secret night exhibitions
+      where shadows came alive, telling stories of hope, pain, and resilience. These
+      shadow sculptures became a unique form of therapy for the townsfolk, allowing
+      them to confront buried emotions and heal through art.
+  _characterName: 'Tenar '
+  _characterSprite: {fileID: 21300000, guid: 0f34038108726144fbf13994dab7e499, type: 3}

@@ -1,0 +1,40 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cca5f64d8e23f4a4fb542a3f3d71bef8, type: 3}
+  m_Name: Lyric
+  m_EditorClassIdentifier: 
+  advice:
+  - _god: 4
+    _godAdvice: Art connects hearts, even when they are apart.
+  - _god: 3
+    _godAdvice: Listen to the wisdom of others, and you will learn more.
+  - _god: 9
+    _godAdvice: Home and music create an atmosphere where the best ideas are born.
+  - _god: 6
+    _godAdvice: Care for your friends, and they will reciprocate.
+  characterStories:
+  - _storyName: The Wandering Melodist
+    _story: Lyric was a musician who traveled the world, sharing his songs and stories.
+  - _storyName: Observer
+    _story: He gathered people's stories to turn them into songs, never interfering
+      in conflicts.
+  - _storyName: Friends from Different Worlds
+    _story: Lyric made friends among both the poor and the rich, helping them express
+      their feelings.
+  - _storyName: Guardian of Traditions
+    _story: He became the keeper of ancient melodies and legends that united different
+      cultures.
+  - _storyName: Eternal Traveler
+    _story: Lyric never stayed in one place, continuing his journey until the world
+      became one.
+  _characterName: Lyric
+  _characterSprite: {fileID: 21300000, guid: f7206a33547bf4946b798528ec86d0c7, type: 3}

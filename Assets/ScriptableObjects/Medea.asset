@@ -1,0 +1,41 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cca5f64d8e23f4a4fb542a3f3d71bef8, type: 3}
+  m_Name: Medea
+  m_EditorClassIdentifier: 
+  advice:
+  - _god: 0
+    _godAdvice: Love should not become a tool of destruction.
+  - _god: 3
+    _godAdvice: Do not let jealousy cloud your judgment.
+  - _god: 4
+    _godAdvice: Seek wisdom even when emotions rage.
+  - _god: 8
+    _godAdvice: Family bonds are a gift, not a burden.
+  characterStories:
+  - _storyName: Misguided Love
+    _story: Medea, the princess of Colchis, fell in love with Jason and used her
+      magic to help him steal the Golden Fleece, betraying her family.
+  - _storyName: Murder of Brother
+    _story: ' In revenge, she killed her brother and dismembered him to delay those
+      pursuing her, which brought upon her additional curses.'
+  - _storyName: Betrayal by Jason
+    _story: When Jason left her for another, Medea took revenge by killing his new
+      wife and burning their home.
+  - _storyName: Death of Her Own Children
+    _story: In a fit of rage and despair, she killed her children to hurt Jason,
+      leaving only emptiness behind.
+  - _storyName: Exile
+    _story: Medea fled to another land, becoming a tragic figure consumed by vengeance
+      and sorrow.
+  _characterName: Medea
+  _characterSprite: {fileID: 21300000, guid: 0950dc71ad15ab9479fddb8d56048c7d, type: 3}

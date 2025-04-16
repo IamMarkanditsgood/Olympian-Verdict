@@ -1,0 +1,45 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cca5f64d8e23f4a4fb542a3f3d71bef8, type: 3}
+  m_Name: Sylven
+  m_EditorClassIdentifier: 
+  advice:
+  - _god: 4
+    _godAdvice: Music is the language of the soul; use it to communicate.
+  - _god: 6
+    _godAdvice: Strength lies in unity; unite people through music.
+  - _god: 8
+    _godAdvice: Your music can nourish the soul.
+  - _god: 7
+    _godAdvice: Create art as a craftsman creates his works.
+  characterStories:
+  - _storyName: Master of Music
+    _story: Sylven is a talented musician who uses music to express her feelings.
+      She creates works that inspire people.
+  - _storyName: Unifying Voice
+    _story: Sylven organizes concerts, bringing together people of different ages
+      and cultures. Her music unites people, filling hearts with hope and joy.
+  - _storyName: Music Teacher
+    _story: She conducts classes for children, teaching them how to play instruments
+      and sing, instilling a love for music from an early age.
+  - _storyName: Social Activist
+    _story: Sylven uses her music to support social movements and fight for people's
+      rights, making their voices heard.
+  - _storyName: Healer Through Harmony
+    _story: During a particularly harsh winter, Sylven discovered that the local
+      children were suffering from isolation and fear. She began organizing music
+      therapy sessions where children and their families gathered to sing and play
+      instruments. The music lifted their spirits, fostering a sense of unity and
+      healing within the community, proving that music could soothe not only the
+      soul but also the mind.
+  _characterName: Sylven
+  _characterSprite: {fileID: 21300000, guid: 5531535cd427fe241a3eb743e110b4b8, type: 3}

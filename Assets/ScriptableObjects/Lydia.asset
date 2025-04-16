@@ -1,0 +1,45 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cca5f64d8e23f4a4fb542a3f3d71bef8, type: 3}
+  m_Name: Lydia
+  m_EditorClassIdentifier: 
+  advice:
+  - _god: 3
+    _godAdvice: Knowledge is the key to peace; teach others.
+  - _god: 6
+    _godAdvice: Family and community are your foundation.
+  - _god: 1
+    _godAdvice: The currents of communication are important; create them.
+  - _god: 4
+    _godAdvice: Art unites; use it for connection.
+  characterStories:
+  - _storyName: Peaceful Diplomat
+    _story: ' Lydia works in diplomacy, resolving international conflicts. Her deep
+      understanding of culture and language helps her find common ground with different
+      peoples.'
+  - _storyName: Solidarity
+    _story: ' She organizes international conferences, bringing people together to
+      discuss important issues and find solutions.'
+  - _storyName: Wise Advisor
+    _story: Lydia advises governments, offering solutions that consider the interests
+      of all parties.
+  - _storyName: Art Lover
+    _story: She also encourages cultural cooperation, organizing exhibitions and
+      music festivals that promote the exchange of traditions.
+  - _storyName: Architect of Understanding
+    _story: While attending an international summit, Lydia noticed that language
+      barriers were causing misunderstandings among delegates. Drawing on her diplomatic
+      skills, she organized translation workshops and cultural exchange programs
+      to break down communication barriers. Through her efforts, nations that were
+      once at odds found common ground, paving the way for new treaties and collaborations.
+  _characterName: Lydia
+  _characterSprite: {fileID: 21300000, guid: bf7df67f0664d6245852cf7c13791b75, type: 3}

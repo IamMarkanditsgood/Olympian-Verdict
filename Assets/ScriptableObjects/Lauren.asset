@@ -1,0 +1,44 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cca5f64d8e23f4a4fb542a3f3d71bef8, type: 3}
+  m_Name: Lauren
+  m_EditorClassIdentifier: 
+  advice:
+  - _god: 4
+    _godAdvice: Every journey is a lesson; learn from them.
+  - _god: 3
+    _godAdvice: Knowledge of different cultures enriches the soul.
+  - _god: 6
+    _godAdvice: Build friendships wherever you are.
+  - _god: 1
+    _godAdvice: The world is an ocean of opportunities; explore it.
+  characterStories:
+  - _storyName: Traveler
+    _story: Lauren is an explorer who loves to discover new places and cultures.
+      He shares his stories with others, inspiring them to embark on adventures.
+  - _storyName: Cultural Bridge
+    _story: Traveling helps Lauren unite people from different countries, fostering
+      understanding and friendship among them.
+  - _storyName: Documentarian
+    _story: He creates documentaries about his adventures, highlighting cultural
+      aspects and important issues faced by various peoples.
+  - _storyName: Kind Messenger
+    _story: ' Lauren always finds common ground with people, demonstrating the importance
+      of openness and friendliness.'
+  - _storyName: The Seeker of Lost Histories
+    _story: During his travels, Lauren uncovered a hidden village lost to history.
+      Its residents were isolated and unaware of the modern world. Lauren documented
+      their traditions and unique way of life, ensuring that their cultural heritage
+      would not be forgotten. By sharing their story, he helped bridge the gap between
+      the past and the present, preserving a piece of history for future generations.
+  _characterName: Lauren
+  _characterSprite: {fileID: 21300000, guid: 439c3550042158e4b875f5b99383a2bc, type: 3}

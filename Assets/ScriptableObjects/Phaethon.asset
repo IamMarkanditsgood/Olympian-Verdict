@@ -1,0 +1,40 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cca5f64d8e23f4a4fb542a3f3d71bef8, type: 3}
+  m_Name: Phaethon
+  m_EditorClassIdentifier: 
+  advice:
+  - _god: 0
+    _godAdvice: Do not seek power if you are not ready for responsibility.
+  - _god: 4
+    _godAdvice: Remember that strength requires respect.
+  - _god: 3
+    _godAdvice: Do not try to be what you are not.
+  - _god: 6
+    _godAdvice: Listen to the wisdom of your ancestors to avoid mistakes.
+  characterStories:
+  - _storyName: Son of the Sun God
+    _story: 'Phaethon was the son of the sun god Helios and dreamed of proving that
+      he was worthy of his father''s legacy. '
+  - _storyName: Uncontrollable Ambition
+    _story: Phaethon asked his father for permission to drive the sun chariot, despite
+      warnings that it was too dangerous.
+  - _storyName: Destructive Influence
+    _story: His clumsiness led to fires on earth and even ignited part of the sky.
+  - _storyName: Death by Punishment
+    _story: Ultimately, Zeus struck him down with lightning to stop the chaos, and
+      Phaethon fell from the sky.
+  - _storyName: Sad Legend
+    _story: His story became a lesson about how pride and the desire to prove oneself
+      can lead to disaster.
+  _characterName: Phaethon
+  _characterSprite: {fileID: 21300000, guid: 0dc56b90a61ff1649933d0e9d7e9038d, type: 3}

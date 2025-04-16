@@ -1,0 +1,47 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cca5f64d8e23f4a4fb542a3f3d71bef8, type: 3}
+  m_Name: Lycos
+  m_EditorClassIdentifier: 
+  advice:
+  - _god: 5
+    _godAdvice: Protecting nature is every person's sacred duty.
+  - _god: 8
+    _godAdvice: Care for every living being, and you will find harmony.
+  - _god: 1
+    _godAdvice: Water and earth are sources of life; cherish them.
+  - _god: 4
+    _godAdvice: Your passion for nature inspires others; use it!
+  characterStories:
+  - _storyName: Protector of Animals
+    _story: Lycos dedicates his life to protecting animals. He creates shelters for
+      stray animals and rescues them from abuse. His kindness and compassion for
+      creatures are admirable.
+  - _storyName: Hunter of Truth
+    _story: Lycos also actively fights against poaching. He organizes campaigns for
+      wildlife conservation, drawing attention to the issues animals face.
+  - _storyName: Inspirational Speaker
+    _story: Lycos frequently speaks at events and schools, educating children and
+      adults about caring for animals. His words inspire people to take action and
+      change their attitudes toward the environment.
+  - _storyName: Friendly Neighbor
+    _story: "He is always ready to help, whether it\u2019s assisting with home repairs
+      or providing support in tough times. His helpfulness makes him a valuable member
+      of the community."
+  - _storyName: Defender of the Wildlands
+    _story: While exploring the outskirts of the town, Lycos stumbled upon a forest
+      threatened by illegal loggers. Realizing the danger to the local wildlife,
+      he mobilized the community to form a patrol, protecting the land day and night.
+      His relentless efforts eventually led to the creation of a protected sanctuary
+      where rare animals could thrive, ensuring their safety for generations to come.
+  _characterName: Lycos
+  _characterSprite: {fileID: 21300000, guid: 777ccefe2122bc941b38e7c0e022fb23, type: 3}

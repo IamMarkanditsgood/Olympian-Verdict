@@ -1,0 +1,44 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cca5f64d8e23f4a4fb542a3f3d71bef8, type: 3}
+  m_Name: Seraphina
+  m_EditorClassIdentifier: 
+  advice:
+  - _god: 4
+    _godAdvice: Dance is an art; use it to convey emotions.
+  - _god: 6
+    _godAdvice: Family and community are the support you need.
+  - _god: 8
+    _godAdvice: Your energy can nourish others, just as the sun nourishes plants.
+  - _god: 5
+    _godAdvice: Act with determination, and your dance will become powerful.
+  characterStories:
+  - _storyName: Dancer
+    _story: Seraphina is a talented dancer who uses dance as a means of self-expression.
+      She performs at celebrations and festivals, filling them with joy and energy.
+  - _storyName: Teaching Dance
+    _story: She organizes dance classes for children and adults, teaching them the
+      basics and helping them find their individuality.
+  - _storyName: Social Projects
+    _story: Seraphina uses dance to draw attention to social issues, organizing charity
+      performances.
+  - _storyName: Kind Personality
+    _story: Her optimism and passion for life inspire people; she is always ready
+      to support those in need.
+  - _storyName: The Dance of Renewal
+    _story: "In a village struck by a series of misfortunes, Seraphina organized
+      a dance ritual under the full moon, believing that movement could cleanse negative
+      energies. As she and the villagers danced together, the atmosphere shifted,
+      and a sense of renewal filled the air. The village soon saw a turn of luck,
+      reinforcing Seraphina\u2019s belief in the power of dance to bring transformation.  "
+  _characterName: Seraphina
+  _characterSprite: {fileID: 21300000, guid: c41cfb63363207f458613ab28fbd3230, type: 3}

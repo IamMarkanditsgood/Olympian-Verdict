@@ -1,0 +1,45 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cca5f64d8e23f4a4fb542a3f3d71bef8, type: 3}
+  m_Name: Zenon
+  m_EditorClassIdentifier: 
+  advice:
+  - _god: 3
+    _godAdvice: Knowledge is power; seek it everywhere.
+  - _god: 6
+    _godAdvice: Family is your fortress; protect it.
+  - _god: 4
+    _godAdvice: Inspiration comes from seeking; never stop.
+  - _god: 7
+    _godAdvice: Craft your ideas like a master creates his works.
+  characterStories:
+  - _storyName: Philosopher
+    _story: Zenon is a deep-thinking philosopher who seeks to understand the essence
+      of life. He engages in discussions with locals, addressing important questions
+      and ideas.
+  - _storyName: Teacher of Wisdom
+    _story: e conducts classes, teaching people the fundamentals of philosophy and
+      critical thinking, inspiring them to ask questions and seek answers.
+  - _storyName: Keeper of Knowledge
+    _story: Zenon collects ancient books and manuscripts to preserve knowledge and
+      pass it on to future generations.
+  - _storyName: Kind Listener
+    _story: He is always ready to listen and support others, showing the importance
+      of sharing thoughts and feelings.
+  - _storyName: The Illuminator of Truths
+    _story: 'Zenon encountered a town plagued by fear due to widespread misinformation
+      and rumors. He decided to create a philosophical journal where he published
+      well-researched essays and dialogues on critical thinking, helping the citizens
+      discern truth from lies. Over time, the townsfolk became more skeptical of
+      rumors, fostering a culture of wisdom and rational discourse.  '
+  _characterName: Zenon
+  _characterSprite: {fileID: 21300000, guid: f827890ec20b486449971e85ecd515cb, type: 3}

@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cca5f64d8e23f4a4fb542a3f3d71bef8, type: 3}
+  m_Name: Lumir
+  m_EditorClassIdentifier: 
+  advice:
+  - _god: 4
+    _godAdvice: Light is knowledge; share it with others
+  - _god: 3
+    _godAdvice: Explain your ideas so others can understand.
+  - _god: 6
+    _godAdvice: Care for those in darkness, and they will respond in kind.
+  - _god: 5
+    _godAdvice: Do not fear to illuminate the path for others.
+  characterStories:
+  - _storyName: Lightbringer
+    _story: 'Lumir was a lightbringer who illuminated the darkest corners. '
+  - _storyName: Inspiration for Others
+    _story: He helped people find their way in the dark without interfering in their
+      choices.
+  - _storyName: Peaceful Light
+    _story: ' Lumir became a symbol of hope and clarity'
+  - _storyName: Collection of Stories
+    _story: He gathered stories from those who found their way in the dark.
+  - _storyName: Caring for Others
+    _story: Lumir always assisted those who were lost, lighting their path.
+  _characterName: Lumir
+  _characterSprite: {fileID: 21300000, guid: edf44cafe6e9f9f4980c624213c0afd5, type: 3}

@@ -1,0 +1,45 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cca5f64d8e23f4a4fb542a3f3d71bef8, type: 3}
+  m_Name: Evryl
+  m_EditorClassIdentifier: 
+  advice:
+  - _god: 3
+    _godAdvice: Wisdom unites; seek common goals.
+  - _god: 6
+    _godAdvice: The pursuit of peace requires patience and care.
+  - _god: 7
+    _godAdvice: Build and create relationships as a craftsman shapes his work.
+  - _god: 1
+    _godAdvice: Great power can lie in simple acts.
+  characterStories:
+  - _storyName: Peacemaker
+    _story: Evryl always strives for peace. He actively works to help people resolve
+      conflicts, creating dialogue between them.
+  - _storyName: Philanthropist
+    _story: Evryl donates his resources to charity, helping the poor and needy. His
+      kindness changes many lives.
+  - _storyName: Educational Reformer
+    _story: He also creates schools for children from poor families, ensuring access
+      to education.
+  - _storyName: Community Builder
+    _story: Evryl organizes events to bring people together, strengthening their
+      bonds and emphasizing the importance of community.
+  - _storyName: The Silent Architect
+    _story: "In a remote village plagued by distrust and conflict, Evryl saw an opportunity
+      to rebuild unity. He secretly funded the construction of a communal garden
+      where villagers could work together. As the flowers bloomed and vegetables
+      thrived, so did the bonds between neighbors who had once been divided. Evryl\u2019s
+      silent efforts proved that sometimes, peace is best built through action rather
+      than words."
+  _characterName: Evryl
+  _characterSprite: {fileID: 21300000, guid: be8b16f126a768e4b9b89ac4442c54f8, type: 3}

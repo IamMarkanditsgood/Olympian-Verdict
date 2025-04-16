@@ -1,0 +1,44 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cca5f64d8e23f4a4fb542a3f3d71bef8, type: 3}
+  m_Name: Freya
+  m_EditorClassIdentifier: 
+  advice:
+  - _god: 7
+    _godAdvice: Crafting is a form of art; let it reflect your soul.
+  - _god: 8
+    _godAdvice: Help others cultivate their talents.
+  - _god: 4
+    _godAdvice: Your creations can inspire; share them.
+  - _god: 3
+    _godAdvice: Wisdom and skill go hand in hand.
+  characterStories:
+  - _storyName: Master of Craft
+    _story: Freya is a skilled craftswoman who creates beautiful clothing and accessories.
+      Her works are well-known in the market, and people come to her for her creations.
+  - _storyName: Community of Artisans
+    _story: 'She organizes craft courses, teaching others sewing and knitting techniques,
+      passing her skills on to the next generation. '
+  - _storyName: Support for Local Communities
+    _story: Freya collaborates with local artisans, promoting their works at fairs
+      and exhibitions, helping them gain recognition.
+  - _storyName: Caring Friend
+    _story: ' Freya is always ready to help her neighbors, offering her services
+      and supporting them in difficult times.'
+  - _storyName: The Weaver of Dreams
+    _story: Freya began creating custom garments for people that contained hidden
+      pockets with hand-sewn charms and symbols. These garments were said to bring
+      good luck and protection to those who wore them. As word spread, people began
+      to see her as more than just a craftswoman, but a creator of dreams, who infused
+      each piece with hope, courage, and love.
+  _characterName: Freya
+  _characterSprite: {fileID: 21300000, guid: f1124d756206e8a428c2e2648fd9b470, type: 3}

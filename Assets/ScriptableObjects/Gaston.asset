@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cca5f64d8e23f4a4fb542a3f3d71bef8, type: 3}
+  m_Name: Gaston
+  m_EditorClassIdentifier: 
+  advice:
+  - _god: 8
+    _godAdvice: Maintain respect for the sources of your wealth.
+  - _god: 4
+    _godAdvice: Trust your intuition when it comes to trade.
+  - _god: 6
+    _godAdvice: Honesty and respect are keys to success.
+  - _god: 7
+    _godAdvice: Learn to value the work of others.
+  characterStories:
+  - _storyName: Merchant
+    _story: Gaston was a wise merchant who traveled the markets, trading various
+      goods.
+  - _storyName: Peaceful Negotiator
+    _story: He always sought peaceful negotiations, avoiding conflicts between merchants.
+  - _storyName: Rumors of Goods
+    _story: Gaston knew that goods could connect people, and he used this to establish
+      contacts.
+  - _storyName: Support for Locals
+    _story: He often supported local producers, helping them find buyers.
+  - _storyName: Legend in the Market
+    _story: His name became a symbol of fair trade and respect for every customer.
+  _characterName: Gaston
+  _characterSprite: {fileID: 21300000, guid: 98e1ade5bfd6bd140b781e6d64edb0d1, type: 3}

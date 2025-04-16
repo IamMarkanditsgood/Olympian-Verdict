@@ -1,0 +1,46 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cca5f64d8e23f4a4fb542a3f3d71bef8, type: 3}
+  m_Name: Hector
+  m_EditorClassIdentifier: 
+  advice:
+  - _god: 0
+    _godAdvice: Courage is noble, but wisdom tempers true bravery.
+  - _god: 3
+    _godAdvice: Valor should be paired with strategy; do not rush to meet death without
+      purpose.
+  - _god: 6
+    _godAdvice: Protect what you hold dear, but do not sacrifice everything for pride.
+  - _god: 8
+    _godAdvice: Your story will live on, for even in death, honor survives.
+  characterStories:
+  - _storyName: Noble Warrior
+    _story: Hector, the prince of Troy, was known for his loyalty to his family and
+      people. He fought fiercely to defend Troy against the Greek forces, putting
+      duty above his own desires.
+  - _storyName: Conflict with Achilles
+    _story: Despite his valor, Hector's fate took a dark turn when he killed Patroclus,
+      the close friend of Achilles. This act sparked a fierce enmity, drawing Achilles
+      back into battle with a thirst for revenge.
+  - _storyName: Final Stand
+    _story: Knowing that the battle would likely end his life, Hector courageously
+      faced Achilles outside the gates of Troy. Despite the gods' warnings, he stood
+      firm, choosing honor over safety.
+  - _storyName: Fall of Troy
+    _story: Hector's death marked the beginning of the end for Troy. His people mourned
+      the loss of their protector, while his family grieved deeply, knowing the city's
+      fate was now sealed.
+  - _storyName: Eternal Legacy
+    _story: Though Hector perished, his bravery and loyalty became a lasting symbol
+      of courage and devotion, inspiring future generations of warriors.
+  _characterName: Hector
+  _characterSprite: {fileID: 21300000, guid: fd964832de1a74b45b7eace44b66eb4b, type: 3}

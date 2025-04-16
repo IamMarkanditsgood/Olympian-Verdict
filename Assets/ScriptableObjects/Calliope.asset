@@ -1,0 +1,48 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cca5f64d8e23f4a4fb542a3f3d71bef8, type: 3}
+  m_Name: Calliope
+  m_EditorClassIdentifier: 
+  advice:
+  - _god: 4
+    _godAdvice: Words are power; use them to inspire.
+  - _god: 6
+    _godAdvice: Family and community are your fortress; protect them.
+  - _god: 3
+    _godAdvice: Knowledge and wisdom should be passed down; share them.
+  - _god: 8
+    _godAdvice: Support growth and development in others, just as the earth nourishes
+      with rain.
+  characterStories:
+  - _storyName: Master of Words
+    _story: Calliope is a renowned poet. Her poems are filled with beauty and meaning,
+      inspiring people throughout the city. She organizes poetry nights, gathering
+      the best speakers.
+  - _storyName: Kindness to Children
+    _story: She often conducts workshops for children, teaching them the basics of
+      poetry and writing. Her gentle approach helps children express their thoughts
+      and feelings.
+  - _storyName: Social Activist
+    _story: Calliope fights for the rights of women and children, actively participating
+      in social movements. Her voice helps change the lives of many, inspiring people
+      to believe in themselves.
+  - _storyName: Life of the Party
+    _story: At any celebration, Calliope becomes the center of attention, her energy
+      and creativity filling the atmosphere with joy and happiness.
+  - _storyName: Voice of the Forgotten
+    _story: Calliope discovered a hidden village where the elderly were neglected
+      and forgotten. With her gift of words, she began to document their stories,
+      turning them into poignant poems that she read aloud at her poetry gatherings.
+      Her work not only gave voice to the silenced but also inspired a movement to
+      reintegrate these forgotten elders back into the fabric of society.
+  _characterName: Calliope
+  _characterSprite: {fileID: 21300000, guid: cda39dcd5701d3b468d806b227f3741f, type: 3}

@@ -1,0 +1,39 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cca5f64d8e23f4a4fb542a3f3d71bef8, type: 3}
+  m_Name: Lalka
+  m_EditorClassIdentifier: 
+  advice:
+  - _god: 0
+    _godAdvice: Power used for evil will turn against you.
+  - _god: 3
+    _godAdvice: Revenge is not the best way to justice.
+  - _god: 7
+    _godAdvice: Strive for heroism, not villainy.
+  - _god: 8
+    _godAdvice: Care for those who suffered from your actions.
+  characterStories:
+  - _storyName: Revolutionary
+    _story: Lalka was an ordinary man who lost everything due to cruel rule.
+  - _storyName: Revenge
+    _story: He gathered a gang to overthrow the rulers, killing them one by one,
+      leading to many innocent victims.
+  - _storyName: Destruction
+    _story: Lalka and his gang ravaged villages, destroying everything in their path
+      for the sake of revenge.
+  - _storyName: Oblivion
+    _story: Ultimately, he became a shadow, losing everything he loved and becoming
+      a victim of his own hatred.
+  - _storyName: Sad Fate
+    _story: Lalka fell into oblivion, leaving behind only shattered lives.
+  _characterName: Lalka
+  _characterSprite: {fileID: 21300000, guid: b66c82e49fbe6f24191b387c23623a7b, type: 3}

@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cca5f64d8e23f4a4fb542a3f3d71bef8, type: 3}
+  m_Name: Tigran
+  m_EditorClassIdentifier: 
+  advice:
+  - _god: 9
+    _godAdvice: Protect nature, and it will protect you.
+  - _god: 3
+    _godAdvice: The wisdom of a hunter lies in understanding his surroundings.
+  - _god: 1
+    _godAdvice: Water and forests are interconnected; respect them.
+  - _god: 5
+    _godAdvice: Learn to distinguish between need and desire.
+  characterStories:
+  - _storyName: Hunter
+    _story: Tigran was a hunter who never killed without necessity, respecting nature.
+  - _storyName: Competition with Friends
+    _story: He participated in competitions with friends but never strived for victory
+      at any cost.
+  - _storyName: Defender of the Forests
+    _story: Tigran protected his land from poachers, becoming a symbol of conservation.
+  - _storyName: Seeking Harmony
+    _story: He believed that humans and nature should live in harmony.
+  - _storyName: Pacifying Spirit
+    _story: His presence inspired respect and tranquility in those around him.
+  _characterName: Tigran
+  _characterSprite: {fileID: 21300000, guid: ea61b21fbac7ae243a059be367da7867, type: 3}

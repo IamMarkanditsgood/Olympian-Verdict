@@ -1,0 +1,49 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cca5f64d8e23f4a4fb542a3f3d71bef8, type: 3}
+  m_Name: Aurelia
+  m_EditorClassIdentifier: 
+  advice:
+  - _god: 6
+    _godAdvice: Caring for family is the foundation of happiness.
+  - _god: 3
+    _godAdvice: Wisdom comes from love and compassion.
+  - _god: 8
+    _godAdvice: Nourish your soul, and it will be strong.
+  - _god: 1
+    _godAdvice: Learn to listen to nature, and it will guide you.
+  characterStories:
+  - _storyName: Caring Mother
+    _story: ' Aurelia has always been a loving mother. She cares for her children,
+      paying attention to their feelings and needs. Every evening, she reads them
+      fairy tales and teaches them the values of kindness and justice.'
+  - _storyName: Celebration of Life
+    _story: Every year, Aurelia organizes a celebration of life, bringing together
+      neighbors and friends. She prepares treats and organizes games to strengthen
+      community bonds and bring joy to everyone.
+  - _storyName: Healing Herbs
+    _story: With deep knowledge of plants, Aurelia creates medicines and infusions
+      from herbs, helping neighbors with healing. Her care for people's health makes
+      her respected and beloved.
+  - _storyName: Peacemaker
+    _story: When conflicts arise between neighbors, Aurelia acts as a peacemaker.
+      She organizes meetings where she helps the parties find common ground and resolve
+      disputes, bringing harmony to their lives.
+  - _storyName: Guardian of Lost Souls
+    _story: When a tragic accident claimed the life of a young girl in the village,
+      her grieving spirit lingered. Aurelia, sensing the presence of the restless
+      soul, conducted a ritual using her herbal remedies and calming presence to
+      guide the spirit into the afterlife. Now, whenever lost or tormented spirits
+      roam, Aurelia becomes the gentle hand that helps them find peace, reinforcing
+      her role as the community's guardian in both the seen and unseen worlds.
+  _characterName: Aurelia
+  _characterSprite: {fileID: 21300000, guid: 92eaf948ba516ed48819c26f08234e72, type: 3}

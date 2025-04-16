@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cca5f64d8e23f4a4fb542a3f3d71bef8, type: 3}
+  m_Name: Iris
+  m_EditorClassIdentifier: 
+  advice:
+  - _god: 3
+    _godAdvice: Learn to discern truth among many words.
+  - _god: 5
+    _godAdvice: Find balance between light and darkness.
+  - _god: 6
+    _godAdvice: Seek harmony in your actions.
+  - _god: 4
+    _godAdvice: Seek wisdom in words.
+  characterStories:
+  - _storyName: Light in Darkness
+    _story: Iris was a beacon of hope for many seeking answers.
+  - _storyName: Messenger of the Gods
+    _story: Iris was known as the messenger of the gods, delivering messages and
+      instructions.
+  - _storyName: Observer
+    _story: She witnessed many human destinies but never intervened in them.
+  - _storyName: Complex Messages
+    _story: Iris sometimes brought good and bad news, but always did so with compassion.
+  - _storyName: Bridge Between Worlds
+    _story: She connected people, sometimes leading them to understanding and reconciliation.
+  _characterName: Iris
+  _characterSprite: {fileID: 21300000, guid: ed4f5bbbed5bc0746b76d5c41ffd1ae4, type: 3}

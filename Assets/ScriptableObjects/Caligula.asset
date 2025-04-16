@@ -1,0 +1,41 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cca5f64d8e23f4a4fb542a3f3d71bef8, type: 3}
+  m_Name: Caligula
+  m_EditorClassIdentifier: 
+  advice:
+  - _god: 0
+    _godAdvice: Thousands may praise you, but only a few will be loyal.
+  - _god: 3
+    _godAdvice: Rule with wisdom, not fear.
+  - _god: 6
+    _godAdvice: True strength lies in loving your people.
+  - _god: 8
+    _godAdvice: Take time to care for those around you.
+  characterStories:
+  - _storyName: Ambitious Dictator
+    _story: Caligula became the Emperor of Rome and immediately began to rule despotically,
+      imposing harsh punishments on his opponents.
+  - _storyName: Extravagant Celebrations
+    _story: He spent enormous sums on lavish feasts, ignoring the needs of the people,
+      and often staged games with human sacrifices.
+  - _storyName: Hatred of Aristocrats
+    _story: 'Caligula persecuted aristocrats, staging executions and carrying out
+      killings without trial. '
+  - _storyName: False Belief in Immortality
+    _story: He began demanding worship as a god, which incited waves of discontent
+      and hatred.
+  - _storyName: End of Reign
+    _story: Ultimately, he was killed by his own close associates, leaving behind
+      only destruction.
+  _characterName: Caligula
+  _characterSprite: {fileID: 21300000, guid: fd0aa3eb42355ae4f877789c0615cc42, type: 3}

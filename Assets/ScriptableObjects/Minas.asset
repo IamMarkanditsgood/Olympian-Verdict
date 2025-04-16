@@ -1,0 +1,43 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cca5f64d8e23f4a4fb542a3f3d71bef8, type: 3}
+  m_Name: Minas
+  m_EditorClassIdentifier: 
+  advice:
+  - _god: 0
+    _godAdvice: He who betrays will himself be betrayed.
+  - _god: 3
+    _godAdvice: Rule wisely, and your people will respond with loyalty.
+  - _god: 6
+    _godAdvice: Family and the people are more important than power.
+  - _god: 4
+    _godAdvice: Be honest, and virtue will come to you.
+  - _god: 0
+    _godAdvice: 
+  characterStories:
+  - _storyName: Lord of Betrayal
+    _story: Minas was a ruler who betrayed his friend and ally for power, making
+      him a target for revenge.
+  - _storyName: Alliance with Enemies
+    _story: He formed an alliance with his people's enemies, hoping to strengthen
+      his power, but it backfired against him.
+  - _storyName: Destruction of the Country
+    _story: His actions led to a civil war that claimed the lives of many innocent
+      people.
+  - _storyName: Loss of Faith
+    _story: As a result of his actions, many lost faith in the government and the
+      king, becoming victims of their own choices.
+  - _storyName: Downfall and Exile
+    _story: 'Ultimately, Minas was overthrown by his own people and exiled from his
+      country. '
+  _characterName: Minas
+  _characterSprite: {fileID: 21300000, guid: c2df111ad879b0f40a7a04a5ee794c2b, type: 3}

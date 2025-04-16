@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cca5f64d8e23f4a4fb542a3f3d71bef8, type: 3}
+  m_Name: Eros
+  m_EditorClassIdentifier: 
+  advice:
+  - _god: 3
+    _godAdvice: Reason and heart must go hand in hand.
+  - _god: 6
+    _godAdvice: Love requires care and respect.
+  - _god: 4
+    _godAdvice: Love sincerely, but remember the consequences.
+  - _god: 5
+    _godAdvice: Do not let others interfere with your feelings.
+  characterStories:
+  - _storyName: Cupid
+    _story: Eros was known as the god of love but often took the role of an observer.
+  - _storyName: Peaceful Mediator
+    _story: He helped resolve conflicts between lovers but did not interfere in their
+      choices.
+  - _storyName: Fleeting Nature of Love
+    _story: Eros saw how love could be both a blessing and a curse.
+  - _storyName: Guide of Hearts
+    _story: He inspired people to seek love but could not predict its outcome.
+  - _storyName: Playing with Fate
+    _story: Eros sometimes teased lovers, creating unexpected situations.
+  _characterName: Eros
+  _characterSprite: {fileID: 21300000, guid: 17dea5316428ef74181c4ef001c76744, type: 3}

@@ -1,0 +1,41 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cca5f64d8e23f4a4fb542a3f3d71bef8, type: 3}
+  m_Name: Nero
+  m_EditorClassIdentifier: 
+  advice:
+  - _god: 0
+    _godAdvice: True power is caring for the people, not oppressing them.
+  - _god: 4
+    _godAdvice: Do not let power overshadow kindness.
+  - _god: 7
+    _godAdvice: Work for the good of others, not for your own pleasure.
+  - _god: 9
+    _godAdvice: Care for your home and loved ones, not for power.
+  characterStories:
+  - _storyName: Rise to Power
+    _story: Nero became the Emperor of Rome at a young age, eliminating all who threatened
+      his power, including his mother.
+  - _storyName: Burning of Rome
+    _story: The Great Fire of Rome in 64 AD implicated Nero in arson to clear space
+      for his new palace.
+  - _storyName: Shifting Blame
+    _story: Nero began persecuting Christians, blaming them for the fire and staging
+      brutal executions to divert attention from his own crimes.
+  - _storyName: Wild Entertainment
+    _story: 'He hosted outrageous games and concerts, ignoring the suffering of his
+      people, often participating in his own entertainments. '
+  - _storyName: End of Reign
+    _story: Ultimately, public discontent led to a rebellion, and Nero took his own
+      life, leaving chaos and destruction behind.
+  _characterName: Nero
+  _characterSprite: {fileID: 21300000, guid: c8885f7a70cc84f46b1df888fab0ee0a, type: 3}
